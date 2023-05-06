@@ -15,7 +15,7 @@ GitHub: https://github.com/sepulworld
 June 2022 to Present
 
 - Work across all engineer teams remove kube2iam and use proper AWS client auth
-- Implement SLO/SLIs for platforms for data platorm and core infra
+- Implement SLO/SLIs for multiple engineer platforms 
 - Enable cluster autoscaling in production to increase reliability and reduce costs
 - Build Terraform modules used across multiple platform and engineering teams
 - Automate EKS module test automation to validate cluster changes
