@@ -6,7 +6,7 @@ title: Zane Williamson's Resume
 
 Email: zane.w@hey.com
 
-GitHub: https://github.com/sepulworld
+GitHub: [https://github.com/sepulworld](https://github.com/sepulworld)
 
 [Download my resume as a PDF](/resume.pdf){: .btn .btn-primary .btn-lg .mx-auto .d-block }
 
