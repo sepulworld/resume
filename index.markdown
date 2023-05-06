@@ -1,5 +1,4 @@
 ---
-layout: resume
 title: Zane Williamson's Resume
 ---
 
@@ -11,15 +10,19 @@ GitHub: https://github.com/sepulworld
 
 ---
 
-### Summary
+#### Senior Staff Site Reliability Engineer, Varo Bank
 
-Over 15 years experience designing and implementing automated, secure and reliable systems. Strong communication and technical skills on a variety of platforms. Focusing on reusability, knowledge sharing, and pair-infrastructure coding. I have experience writing applications in Python and Go leveraging both Serverless and Kubernetes in production.
+June 2022 to Present
 
----
-
-### Professional Experience
+- Work across all engineer teams remove kube2iam and use proper AWS client auth
+- Implement SLO/SLIs for platforms for data platorm and core infra
+- Enable cluster autoscaling in production to increase reliability and reduce costs
+- Build Terraform modules used across multiple platform and engineering teams
+- Automate EKS module test automation to validate cluster changes
+- Migrate Helm deployments to ArgoCD
 
 #### Senior Staff Engineer, Flexport
+
 March 2021 to June 2022
 
 - Designed and built Flexport infrastructure on Kubernetes
@@ -31,7 +34,8 @@ March 2021 to June 2022
 - Focused on building team skills and collaboration via pair programming
 
 #### Principal Engineer, Zillow
-October 2015 to Present
+
+October 2015 to June 2021
 
 - Built a Python Serverless API and collection subsystem for AWS network stack information
 - A lead contributor to the k8s bloomberg/solr-operator application
@@ -46,6 +50,8 @@ October 2015 to Present
 - Istio sidecar and platform for request tracing, traffic shaping and mutual TLS security
 
 #### DevOps Engineer, GeoRiot (contractor, remote)
+
+April 2013 to April 2018
 
 - Python driven Let’s Encrypt cert generation and multi-region HAproxy deployment system
 - Nomad + Docker microservice production deployment across multiple cloud providers.
