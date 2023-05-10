@@ -105,7 +105,7 @@ Jan 2010 - July 2012
 - [deadman-check](https://github.com/sepulworld/deadman-check): Monitoring companion for Nomad.
 - [cidr-house-rules](https://github.com/trulia/cidr-house-rules): Python Serverless API and collection system.
 - [aptly-cli](https://github.com/sepulworld/aptly_cli): CLI interface for Aptly package server.
-- [TFSOA](https://github.com/sepulworld/tfsoa): A dashboard that centralizes disparate TF states.
+- [TFSOA](https://github.com/sepulworld/tfsoa): A dashboard that centralizes disparate Terraform states.
 
 ---
 
