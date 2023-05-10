@@ -16,6 +16,7 @@ GitHub: [https://github.com/sepulworld](https://github.com/sepulworld)
 
 June 2022 to Present
 
+- Collaborated with cross-functional platform teams to deliver high-quality products, and provide technical leadership.
 - Work across all engineer teams remove kube2iam and use proper AWS client auth
 - Implement SLO/SLIs for multiple engineer platforms 
 - Enable cluster autoscaling in production to increase reliability and reduce costs
@@ -28,6 +29,7 @@ June 2022 to Present
 March 2021 to June 2022
 
 - Designed and built Flexport infrastructure on Kubernetes
+- Provided technical leadership, guidance, and mentorship to mid-level and senior-level engineers as a principal software engineer.
 - Terraform AWS + Helm Provider driven EKS setups 
 - Secure access to K8s platform via Teleport
 - Github Actions driven CI/CD for infrastructure and application automation 
@@ -40,6 +42,7 @@ March 2021 to June 2022
 October 2015 to June 2021
 
 - Built a Python Serverless API and collection subsystem for AWS network stack information
+- Provided technical leadership, guidance, and mentorship to mid-level and senior-level engineers as a principal software engineer.
 - A lead contributor to the k8s bloomberg/solr-operator application
 - Designed and implemented core components of Gitlab CI/CD pipelines at Zillow
 - Designed a Kubernetes config secret store and open sourced (hyperkube)
