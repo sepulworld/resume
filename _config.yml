@@ -21,7 +21,7 @@
 title: Zane Williamson
 email: zane.w@hey.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  15 years experience designing and implementing automated, secure and reliable systems. Strong communication and technical skills on a variety of platforms. Focusing on reusability, knowledge sharing, and pair-infrastructure coding. I have experience writing applications in Python and Go leveraging both Serverless and Kubernetes in production.
+  With 15 years of experience, I have a strong track record of designing and implementing cloud-native solutions with a focus on automation, security, and reliability. My technical expertise spans multiple platforms, and I have extensive experience with Kubernetes and other container orchestration tools. Additionally, I have a proven ability to lead and mentor mid-level and senior-level engineers, providing them with technical guidance and leadership to ensure successful project outcomes. I am passionate about promoting knowledge sharing and reusability, and I leverage this approach to develop high-quality, maintainable code.
 baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sepulworld
