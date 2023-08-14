@@ -18,7 +18,8 @@ June 2022 to Present
 
 - Collaborated with cross-functional platform teams to deliver high-quality products, and provide technical leadership.
 - Work across all engineer teams remove kube2iam and use proper AWS client auth
-- Implement SLO/SLIs for multiple engineer platforms 
+- Implement SLO/SLIs for multiple engineer platforms
+- Rolled out Grafana Loki and Tempo combined with Open Telemetry Operator for full stack observability
 - Enable cluster autoscaling in production to increase reliability and reduce costs
 - Build Terraform modules used across multiple platform and engineering teams
 - Automate EKS module test automation to validate cluster changes
