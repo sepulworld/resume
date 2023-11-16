@@ -17,6 +17,7 @@ GitHub: [https://github.com/sepulworld](https://github.com/sepulworld)
 June 2022 to Present
 
 - Collaborated with cross-functional platform teams to deliver high-quality products, and provide technical leadership.
+- Open Telemetry auto-instrumentation for all Java and NodeJS applications with Grafana Tempo
 - Work across all engineer teams remove kube2iam and use proper AWS client auth
 - Implement SLO/SLIs for multiple engineer platforms
 - Rolled out Grafana Loki and Tempo combined with Open Telemetry Operator for full stack observability
